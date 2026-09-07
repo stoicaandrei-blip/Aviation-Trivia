@@ -1,3 +1,6 @@
+# Warning: the game supports only windows at this point - the next update will add versions for mac and linux 
+
+
 # Aviation-Trivia
 A quiz game that has question about aviation. 
 <img width="1919" height="1078" alt="snp4" src="https://github.com/user-attachments/assets/f10d81bb-729f-4800-a16e-bbde0b3d6d0a" />
