@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AviationTrivia/AviationTrivia.vcxproj" Id="8c5472af-3fe3-4a51-a7a7-f2af27b51406" />
+</Solution>
