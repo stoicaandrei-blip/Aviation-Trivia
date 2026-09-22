@@ -70,3 +70,15 @@ All the source code is inside AviationTrivia.cpp
 (day/month/year)
 
 07.09.2026 - The release of V1.0.0 
+
+22.09.2026 - The release of V1.0.1
+
+# What is added: 
+**V1.0.1:**
+
+            -Finished the settings page, but only the first 2 options are working - the music volume and the skip intro button
+
+            -Added a MARKET MENU that is currently under development
+            
+            -Made a function to open any url - this is added primarely for when a version for linux/mac will be available
+            
