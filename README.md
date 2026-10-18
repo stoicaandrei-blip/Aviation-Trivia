@@ -69,9 +69,11 @@ All the source code is inside AviationTrivia.cpp
 # Update log: 
 (day/month/year)
 
-07.09.2026 - The release of V1.0.0 
+07.09.2026 - The release of [*V1.0.0*](https://github.com/stoicaandrei-blip/Aviation-Trivia/releases/tag/V1.0.0)
 
-22.09.2026 - The release of V1.0.1
+22.09.2026 - The release of [*V1.0.1*](https://github.com/stoicaandrei-blip/Aviation-Trivia/releases/tag/V1.0.1)
+
+18.10.2026 - The release of [*V1.0.2*](https://github.com/stoicaandrei-blip/Aviation-Trivia/releases/tag/V1.0.2)
 
 # What is added: 
 **V1.0.1:**
@@ -81,4 +83,14 @@ All the source code is inside AviationTrivia.cpp
             -Added a MARKET MENU that is currently under development
             
             -Made a function to open any url - this is added primarely for when a version for linux/mac will be available
+
+**V1.0.2:**
+
+            -Added a save icon that pops up for a second wne the game is saving
+
+            -Added a question counter inside the PLAY menu which shows what question you are on currently
+
+            -Made a separate file for loading all of the asset's textures
+
+            -Updated the commands and the title of the window
             
